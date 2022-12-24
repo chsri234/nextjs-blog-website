@@ -4,7 +4,7 @@ const Home = () => {
   return (
     <>
       <Layout>
-       <h1>Main Component</h1>
+       <h1 className='text-center'>Main Component</h1>
       </Layout>
     </>
   )
