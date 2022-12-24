@@ -35,6 +35,9 @@ yarn-error.log*
 *.tsbuildinfo
 next-env.d.ts
 
+# style
+/styles/dist.css
+
 # lock files
 package-lock.json
 yarn.lock
